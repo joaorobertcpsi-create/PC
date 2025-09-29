@@ -1,0 +1,90 @@
+{
+  "students": [
+    {
+      "id": 1,
+      "name": "Mateus I",
+      "year": "3º Ano",
+      "school": "LIDL",
+      "days": [
+        "Seg",
+        "Ter",
+        "Qua",
+        "Qui",
+        "Sex"
+      ],
+      "time": "16:30",
+      "notes": ""
+    },
+    {
+      "id": 2,
+      "name": "Guilherme G",
+      "year": "6ºC",
+      "school": "Castanheiros",
+      "days": [
+        "Seg",
+        "Qua",
+        "Sex"
+      ],
+      "time": "17:00",
+      "notes": "Vai com JP"
+    },
+    {
+      "id": 3,
+      "name": "Leonor S",
+      "year": "5ºA",
+      "school": "Castanheiros",
+      "days": [
+        "Ter",
+        "Qui"
+      ],
+      "time": "17:35",
+      "notes": ""
+    },
+    {
+      "id": 4,
+      "name": "Salvador A",
+      "year": "2º ano",
+      "school": "Ponte",
+      "days": [
+        "Seg",
+        "Ter",
+        "Qua",
+        "Qui",
+        "Sex"
+      ],
+      "time": "16:00",
+      "notes": ""
+    },
+    {
+      "id": 5,
+      "name": "Inês Reis",
+      "year": "9ºC",
+      "school": "Agostinho",
+      "days": [
+        "Ter",
+        "Qui"
+      ],
+      "time": "15:30",
+      "notes": ""
+    }
+  ],
+  "routes": [
+    {
+      "id": 1,
+      "name": "Rota A",
+      "stops": [
+        "LIDL",
+        "Castanheiros",
+        "Ponte"
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Rota B",
+      "stops": [
+        "Agostinho",
+        "Veiga Ferreira"
+      ]
+    }
+  ]
+}
